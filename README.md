@@ -1,1 +1,1 @@
-# LandOfFishRice
+# LandOfFR
